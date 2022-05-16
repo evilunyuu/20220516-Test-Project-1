@@ -10,7 +10,7 @@
 
 int main(int, char **)
 {
-	std::cout << "This is a test project!" << std::endl;
+	std::cout << "Это тестовый проект!" << std::endl;
 
 	return 0;
 }
