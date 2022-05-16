@@ -10,7 +10,6 @@
 
 int main(int, char **)
 {
-	std::cout << "Это тестовый проект!" << std::endl;
 	std::string name;
 	std::cout << "Как Вас зовут? ";
 	std::getline(std::cin, name);
